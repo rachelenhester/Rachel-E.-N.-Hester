@@ -1,0 +1,9 @@
+---
+title: "CV"
+format: html
+include-after-body: "Footer.Rhtml"
+---
+
+![](Hester_CV_June_2026FORWEBSITE.pdf){.center width="100%" height="800"}
+
+![](Rachel_Hester_General_Resume_June_2026FORWEBSITE.pdf){.center width="100%" height="800"}

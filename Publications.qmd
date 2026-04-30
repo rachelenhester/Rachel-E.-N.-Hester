@@ -1,0 +1,7 @@
+---
+title: "Publications"
+format: html
+include-after-body: "Footer.Rhtml"
+---
+
+When I publish papers and present at conferences, the details will go here!

@@ -1,0 +1,23 @@
+---
+title: "For Funsies"
+format: html
+include-after-body: "Footer.Rhtml"
+---
+
+# Meet the pets! {style="text-align: center"}
+
+![](images/20230120_094856.jpg){style=".caption{    text-align: center; }" fig-align="center" width="301"}
+
+#### Chester - He would be a Paladin. {style="text-align: center"}
+
+![](images/IMG_20171229_131517_225.jpg){style=".caption{    text-align: center; }" fig-align="center" width="298"}
+
+#### Gizmo - He would be a sorcerer. {style="text-align: center"}
+
+![](images/20260205_114122.jpg){style=".caption{    text-align: center; }" fig-align="center" width="292"}
+
+#### Mikan - She would be a Barbarian. {style="text-align: center"}
+
+![](images/20260315_125010.jpg){style=".caption{    text-align: center; }" fig-align="center" width="289"}
+
+#### Shrimp + Snails - The shrimp would be Monks, the snails Rogues. {style="text-align: center"}

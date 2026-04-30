@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Rachel E. N. Hester"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - CV.qmd
+      - about.qmd
+      - Extracurriculars.qmd
+      - Publications.qmd
+      - PhotoGallery.qmd
+      - ForFunsies.qmd
+  back-to-top-navigation: true
+    page-footer: 
+    right: 
+      - icon: github
+        text: GitHub
+        href: https://github.com/rachelenhester
+        target: _blank
+      - icon: envelope
+        text: rachelenhester@gmail.com
+        href: mailto:rachelenhester@gmail.com
+        target: _blank
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/rachelenhester/
+        target: _blank
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    link-external-newwindow: true
+    link-external-icon: true
+
+editor: visual
+

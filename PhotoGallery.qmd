@@ -1,0 +1,7 @@
+---
+title: "Photo Gallery"
+format: html
+include-after-body: "Footer.Rhtml"
+---
+
+Coming soon! A gallery of photos from various field trips, events, etc.
