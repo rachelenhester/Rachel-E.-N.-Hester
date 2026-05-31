@@ -4,9 +4,9 @@ format: html
 include-after-body: "Footer.Rhtml"
 ---
 
-### What are Elgaria? {style="text-align: center"}
+### What are Elgaria?
 
-#### [Elgaria Story Map](https://storymaps.arcgis.com/stories/31e8198a587d44089ffc98d8240c5f02) {.center}
+#### [Elgaria Story Map](https://storymaps.arcgis.com/stories/31e8198a587d44089ffc98d8240c5f02)
 
 (Made during my Spring 2026 GIS Class)
 
@@ -16,9 +16,9 @@ My particular species of interest is *Elgaria multicarinata*, the Southern Allig
 
 [![](images/ElgariamulticarinataGaryNafisCalHerps1.jpg){style=".caption{    text-align: center; }" fig-align="center" width="466"}](https://californiaherps.com/lizards/pages/e.multicarinata.html)
 
-Elgaria multicarinata, photo credits to Gary Nafis of CalHerps
+Elgaria multicarinata, photo credits to Gary Nafis of CalHerps\
 
-### My Thesis Research {style="text-align: center"}
+### My Thesis Research
 
 I am researching Southern Alligator Lizard bite force at different temperatures. I use an incubator, fridge (yes, a regular fridge), and rooms of various temperatures to alter the lizards' internal body temperature. These lizards are capable of activity at temperatures between 4-34 C (Roughly 39-93 F), so I am collecting data at as many temperatures across this range as I am able. I get them to bite a force transducer so the variables can be recorded. More info to come, as I am still in the process of collecting data.
 
@@ -26,14 +26,14 @@ I am researching Southern Alligator Lizard bite force at different temperatures.
 
 Alligator Lizard Biting
 
-### Why is this Relevant? {style="text-align: center"}
+### Why is this Relevant?
 
 As climate change continues, it is clear there will be some affect on ectotherms who rely on the environment to set their internal temperature. As a species that prefers a body temperature around 25-30 C (Roughly 75-84 F), how will their range or behavior shift? They use their strong bite during their mating behavior, as well as in prey capture and predator deterrence (as I have experienced). At what temperature is their optimal biting performance, and does it correlate to their preferred body temperature?
 
-### Other Research {style="text-align: center"}
+### Other Research
 
 I am analyzing a Maximum Entropy model generated using iNaturalist location data for the Southern Alligator Lizard (*Elgaria multicarinata*) and the Northern Alligator Lizard (*Elgaria coerulea*) to compare environmental factors that influence their habitat partitioning.
 
-### Other Academics {style="text-align: center"}
+### Other Academics
 
 I'm currently taking a Scientific Writing and Advanced R class.

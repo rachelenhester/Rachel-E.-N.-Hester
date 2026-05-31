@@ -36,7 +36,13 @@ format:
     link-external-newwindow: true
     link-external-icon: true
     include-in-header:
-      - text: <meta name="google-site-verification" content="APWf7EEwh0Ehe0KTqE-rreDFVGSXtd5rq30PYM8cvkk" />
+      - text: '<meta name="google-site-verification" content="APWf7EEwh0Ehe0KTqE-rreDFVGSXtd5rq30PYM8cvkk" />'
+      - text: |
+        <style>
+        h1, h2, h3 {
+          text-align: center;
+        }
+        <style>
 
 editor: visual
 
