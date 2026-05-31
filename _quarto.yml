@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  back-to-top-navigation: true
   title: "Rachel E. N. Hester"
   navbar:
     left:
@@ -14,19 +15,18 @@ website:
       - Publications.qmd
       - PhotoGallery.qmd
       - ForFunsies.qmd
-  back-to-top-navigation: true
-  right: 
-    - icon: github
-      text: GitHub
-      href: https://github.com/rachelenhester
+    right: 
+      - icon: github
+        text: GitHub
+        href: https://github.com/rachelenhester
         target: _blank
-    - icon: envelope
-      text: rachelenhester@gmail.com
-      href: mailto:rachelenhester@gmail.com
+      - icon: envelope
+        text: rachelenhester@gmail.com
+        href: mailto:rachelenhester@gmail.com
         target: _blank
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/rachelenhester/
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/rachelenhester/
         target: _blank
 
 format:

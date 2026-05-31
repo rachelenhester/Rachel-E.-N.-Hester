@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Rachel Eileen Noriko Hester\nI am a current Master’s student at Cal Poly Pomona in the Lappin Lab, under the Biological Sciences Department. For my thesis I am investigating the effects of temperature on bite force variables in Elgaria multicarinata, the Southern Alligator Lizard. I have also participated in projects with the Blakey Lab, including BATS.\nAcademic interests include herpetology, animal physiology and ecology, Californian wildlife, effects of climate change, and conservation. I dabble a little bit in mammalogy.\nI received my Bachelor’s in General Biology with an emphasis in Zoology from Cal Poly Pomona. I participated in undergraduate research for the Lappin and Blakey labs. In the Lappin lab, I assisted with a chameleon bite force project, and in the Blakey lab I assisted with Sonobat feeding buzz identification, and bobcat and great gray owl road crossings.\nNon-academic interests include video games, reading, crocheting, drawing, and D&D.\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "Publications.html",
     "href": "Publications.html",
     "title": "Publications",
@@ -14,18 +7,18 @@
     "text": "When I publish papers and present at conferences, the details will go here!\n\n\n\n Back to top"
   },
   {
-    "objectID": "ForFunsies.html",
-    "href": "ForFunsies.html",
-    "title": "For Funsies",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Meet the pets!\n\n\n\n\n\n\nChester - He would be a Paladin.\n\n\n\n\n\n\n\nGizmo - He would be a sorcerer.\n\n\n\n\n\n\n\nMikan - She would be a Barbarian.\n\n\n\n\n\n\n\nShrimp + Snails - The shrimp would be Monks, the snails Rogues.\n\n\n\n\n\n Back to top"
+    "text": "Rachel Eileen Noriko Hester\nI am a current Master’s student at Cal Poly Pomona in the Lappin Lab, under the Biological Sciences Department. For my thesis I am investigating the effects of temperature on bite force variables in Elgaria multicarinata, the Southern Alligator Lizard. I have also participated in projects with the Blakey Lab, including BATS.\nAcademic interests include herpetology, animal physiology and ecology, Californian wildlife, effects of climate change, and conservation. I dabble a little bit in mammalogy.\nI received my Bachelor’s in General Biology with an emphasis in Zoology from Cal Poly Pomona. I participated in undergraduate research for the Lappin and Blakey labs. In the Lappin lab, I assisted with a chameleon bite force project, and in the Blakey lab I assisted with Sonobat feeding buzz identification, and bobcat and great gray owl road crossings.\nNon-academic interests include video games, reading, crocheting, drawing, and D&D.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "CV",
+    "objectID": "Extracurriculars.html",
+    "href": "Extracurriculars.html",
+    "title": "Extracurriculars",
     "section": "",
-    "text": "Back to top"
+    "text": "Jobs/Volunteering\nI am currently a TA for BIO2350, Human Physiology.\nIn the past I have taught BIO1150L, Basic Biology, and Bio1220L, Foundations of Biology: Ecology, Evolution, and Biodiversity.\nI was previously a grader for BIO3250, Principles of Ecology.\nCurrent Animal Care Volunteer at the CPP Vivarium, and Animal Keeper Volunteer at the OC Zoo.\n\n\n\nAt the Vivarium with one of my lizards\n\n\n\n\nClubs\n\nBat Night!\nBat Night is the semi-annual event hosted by the Bat Advocacy and Tracking Society! I have been involved since the very first Bat Night in Fall 2023. We teach the public about bats, and why it is important to conserve them. Fall Bat Week 2023 also started the ongoing bat box project, and I assisted in constructing the first sets of bat boxes.\n\n\n\nBat Box Construction\n\n\n\n\nRoles:\nFormer Treasurer, and founding member of the Bat Advocacy and Tracking Society. I helped secure the TGIF grant to fund the bat box project!\nFormer Fundraising Chair, then President of the Zoologists of Cal Poly Pomona.\nFormer Secretary and Co-Historian of CPP’s Nikkei Student Union.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -35,11 +28,18 @@
     "text": "What are Elgaria?\n\nElgaria Story Map\n(Made during my Spring 2026 GIS Class)\nElgaria are a genus of New World lizards within the family Anguidae. They are in the subfamily Gerrhonotinae, and related to other genera of Alligator lizard.They are more distantly related to the subfamily Anguinae, a group of legless lizards commonly called glass lizards or slow worms.\nMy particular species of interest is Elgaria multicarinata, the Southern Alligator Lizard. This is the only species of Elgaria native to Los Angeles County, and the second most common urban lizard in the area, behind the Western Fence Lizard, Sceloporus Occidentalis.\n\n\n\n\n\nElgaria multicarinata, photo credits to Gary Nafis of CalHerps\n\n\n\nMy Thesis Research\nI am researching Southern Alligator Lizard bite force at different temperatures. I use an incubator, fridge (yes, a regular fridge), and rooms of various temperatures to alter the lizards’ internal body temperature. These lizards are capable of activity at temperatures between 4-34 C (Roughly 39-93 F), so I am collecting data at as many temperatures across this range as I am able. I get them to bite a force transducer so the variables can be recorded. More info to come, as I am still in the process of collecting data.\n\n\n\n\n\nAlligator Lizard Biting\n\n\nWhy is this Relevant?\nAs climate change continues, it is clear there will be some affect on ectotherms who rely on the environment to set their internal temperature. As a species that prefers a body temperature around 25-30 C (Roughly 75-84 F), how will their range or behavior shift? They use their strong bite during their mating behavior, as well as in prey capture and predator deterrence (as I have experienced). At what temperature is their optimal biting performance, and does it correlate to their preferred body temperature?\n\n\nOther Research\nI am analyzing a Maximum Entropy model generated using iNaturalist location data for the Southern Alligator Lizard (Elgaria multicarinata) and the Northern Alligator Lizard (Elgaria coerulea) to compare environmental factors that influence their habitat partitioning.\n\n\nOther Academics\nI’m currently taking a Scientific Writing and Advanced R class.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "Extracurriculars.html",
-    "href": "Extracurriculars.html",
-    "title": "Extracurriculars",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
     "section": "",
-    "text": "Jobs/Volunteering\nI am currently a TA for BIO2350, Human Physiology.\nIn the past I have taught BIO1150L, Basic Biology, and Bio1220L, Foundations of Biology: Ecology, Evolution, and Biodiversity.\nI was previously a grader for BIO3250, Principles of Ecology.\nCurrent Animal Care Volunteer at the CPP Vivarium, and Animal Keeper Volunteer at the OC Zoo.\n\n\n\nAt the Vivarium with one of my lizards\n\n\n\n\nClubs\n\nBat Night!\nBat Night is the semi-annual event hosted by the Bat Advocacy and Tracking Society! I have been involved since the very first Bat Night in Fall 2023. We teach the public about bats, and why it is important to conserve them. Fall Bat Week 2023 also started the ongoing bat box project, and I assisted in constructing the first sets of bat boxes.\n\n\n\nBat Box Construction\n\n\n\n\nRoles:\nFormer Treasurer, and founding member of the Bat Advocacy and Tracking Society. I helped secure the TGIF grant to fund the bat box project!\nFormer Fundraising Chair, then President of the Zoologists of Cal Poly Pomona.\nFormer Secretary and Co-Historian of CPP’s Nikkei Student Union.\n\n\n\n\n\n Back to top"
+    "text": "Back to top"
+  },
+  {
+    "objectID": "ForFunsies.html",
+    "href": "ForFunsies.html",
+    "title": "For Funsies",
+    "section": "",
+    "text": "Meet the pets!\n\n\n\n\n\n\nChester - He would be a Paladin.\n\n\n\n\n\n\n\nGizmo - He would be a sorcerer.\n\n\n\n\n\n\n\nMikan - She would be a Barbarian.\n\n\n\n\n\n\n\nShrimp + Snails - The shrimp would be Monks, the snails Rogues.\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "PhotoGallery.html",
