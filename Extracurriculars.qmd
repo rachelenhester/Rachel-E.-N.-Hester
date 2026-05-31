@@ -4,7 +4,7 @@ format: html
 include-after-body: "Footer.Rhtml"
 ---
 
-# Jobs/Volunteering {style="text-align: center"}
+# Jobs/Volunteering
 
 I am currently a TA for BIO2350, Human Physiology.\
 In the past I have taught BIO1150L, Basic Biology, and Bio1220L, Foundations of Biology: Ecology, Evolution, and Biodiversity.\
@@ -14,15 +14,15 @@ Current Animal Care Volunteer at the CPP Vivarium, and Animal Keeper Volunteer a
 
 ![At the Vivarium with one of my lizards](images/clipboard-459302564.png){style=".caption{    text-align: center; }" fig-align="center" width="219"}
 
-# Clubs {style="text-align: center"}
+# Clubs
 
-### Bat Night! {style="text-align: center"}
+### Bat Night!
 
 Bat Night is the semi-annual event hosted by the Bat Advocacy and Tracking Society! I have been involved since the very first Bat Night in Fall 2023. We teach the public about bats, and why it is important to conserve them. Fall Bat Week 2023 also started the ongoing bat box project, and I assisted in constructing the first sets of bat boxes.
 
 ![Bat Box Construction](images/BatBoxMe.jpg){style=".caption{    text-align: center; }" fig-align="center" width="288"}
 
-### Roles: {style="text-align: center"}
+### Roles:
 
 Former Treasurer, and founding member of the [Bat Advocacy and Tracking Society](https://www.instagram.com/b.a.t.s_cpp/). I helped secure the TGIF grant to fund the bat box project!
 

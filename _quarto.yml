@@ -38,11 +38,16 @@ format:
     include-in-header:
       - text: '<meta name="google-site-verification" content="APWf7EEwh0Ehe0KTqE-rreDFVGSXtd5rq30PYM8cvkk" />'
       - text: |
-        <style>
-        h1, h2, h3 {
-          text-align: center;
-        }
-        <style>
+          <style>
+          /* Centers the main document title at the top */
+          h1.title {
+            text-align: center;
+          }
+          /* Centers section headers if needed */
+          h2, h3, h4 {
+            text-align: center;
+          }
+          </style>
 
 editor: visual
 
