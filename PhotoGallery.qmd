@@ -22,15 +22,15 @@ include-after-body: "Footer.Rhtml"
 
 <br> <br>
 
-![](images/20240914_214601.jpg)
-
-### Mammology Field Trip Fall 2025
-
-<br> <br>
-
 ![](images/20241012_125156.jpg)
 
 ### Southwestern Desert Bat Class Fall 2025
+
+<br> <br>
+
+![](images/20240914_214601.jpg)
+
+### Mammology Field Trip Fall 2025
 
 <br> <br>
 
