@@ -4,6 +4,6 @@ format: html
 include-after-body: "Footer.Rhtml"
 ---
 
-![](Hester_CV_August_2026FORWEBSITE1.pdf){.center}
+![](Hester_CV_August_2026FORWEBSITE1.pdf){.center width="100%"}
 
 ![](Rachel_Hester_General_Resume_August_2026FORWEBSITE.pdf){.center width="100%"}

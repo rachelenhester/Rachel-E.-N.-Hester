@@ -4,9 +4,21 @@ format: html
 include-after-body: "Footer.Rhtml"
 ---
 
-![](images/20240504_170755.jpg)
+![](images/20260327_122527(1).jpg)
 
-### Herpetology Field Trip Spring 2024
+### Thesis Research Fall 2025
+
+<br> <br>
+
+![](images/20250517_151749.jpg)
+
+### Graduation Spring 2025
+
+<br> <br>
+
+![](images/20250504_083837.jpg)
+
+### Herpetology Field Trip Spring 2025
 
 <br> <br>
 
@@ -22,12 +34,6 @@ include-after-body: "Footer.Rhtml"
 
 <br> <br>
 
-![](images/20250504_083837.jpg)
+![](images/20240504_170755.jpg)
 
-### Herpetology Field Trip Spring 2025
-
-<br> <br>
-
-![](images/20250517_151749.jpg)
-
-### Graduation Spring 2025
+### Herpetology Field Trip Spring 2024

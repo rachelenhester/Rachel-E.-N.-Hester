@@ -8,9 +8,11 @@ include-after-body: "Footer.Rhtml"
 
 #### Rachel Eileen Noriko Hester
 
-I am a current Master's student at Cal Poly Pomona in the [Lappin Lab](https://www.linkedin.com/in/a-kristopher-lappin-39a57b2b8/), under the Biological Sciences Department. For my thesis I am investigating the effects of temperature on bite force variables in *Elgaria multicarinata*, the Southern Alligator Lizard. I have also participated in projects with the [Blakey Lab](https://www.blakeylab.com/), including BATS.
+I am a current Master's student at Cal Poly Pomona in the [Lappin Lab](https://www.linkedin.com/in/a-kristopher-lappin-39a57b2b8/), under the Biological Sciences Department. For my thesis I am investigating the effects of temperature on bite force variables in *Elgaria multicarinata*, the Southern Alligator Lizard, and *Elgaria coerulea*, the Northern Alligator Lizard. I have also participated in projects with the [Blakey Lab](https://www.blakeylab.com/), including BATS (The Bat Advocacy and Tracking Society).
 
 Academic interests include herpetology, animal physiology and ecology, Californian wildlife, effects of climate change, and conservation. I dabble a little bit in mammalogy.
+
+I am currently searching for a PhD program for Fall 2027!
 
 I received my Bachelor's in General Biology with an emphasis in Zoology from Cal Poly Pomona. I participated in undergraduate research for the Lappin and Blakey labs. In the Lappin lab, I assisted with a chameleon bite force project, and in the Blakey lab I assisted with Sonobat feeding buzz identification, and bobcat and great gray owl road crossings.
 

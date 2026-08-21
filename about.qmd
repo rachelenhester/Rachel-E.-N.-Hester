@@ -12,11 +12,11 @@ include-after-body: "Footer.Rhtml"
 
 Elgaria are a genus of New World lizards within the family Anguidae. They are in the subfamily Gerrhonotinae, and related to other genera of Alligator lizard.They are more distantly related to the subfamily Anguinae, a group of legless lizards commonly called glass lizards or slow worms.
 
-My particular species of interest is *Elgaria multicarinata*, the Southern Alligator Lizard. This is the only species of Elgaria native to Los Angeles County, and the second most common urban lizard in the area, behind the Western Fence Lizard, *Sceloporus Occidentalis.*
+My particular species of interest are *Elgaria multicarinata*, the Southern Alligator Lizard, and *Elgaria coerulea*, the Northern Alligator Lizard. *Elgaria multicarinata* is the only species of Elgaria native to Los Angeles County, and the second most common urban lizard in the area, behind the Western Fence Lizard, *Sceloporus Occidentalis. Elgaria coerulea* is found in colder, more montane areas stretching from Central California to Canada.
 
 [![](images/ElgariamulticarinataGaryNafisCalHerps1.jpg){style=".caption{    text-align: center; }" fig-align="center" width="466"}](https://californiaherps.com/lizards/pages/e.multicarinata.html)
 
-Elgaria multicarinata, photo credits to Gary Nafis of CalHerps\
+#### Elgaria multicarinata, photo credits to Gary Nafis of CalHerps 
 
 ### My Thesis Research
 
@@ -24,7 +24,7 @@ I am researching Southern Alligator Lizard bite force at different temperatures.
 
 ![](images/20260311_CPP356_Day5_20C_Trial1_Bite4%20-%20frame%20at%201m55s.jpg){style=".caption{    text-align: center; }" fig-align="center" width="486"}
 
-Alligator Lizard Biting
+#### Alligator Lizard Biting
 
 ### Why is this Relevant?
 
