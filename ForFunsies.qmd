@@ -20,4 +20,8 @@ include-after-body: "Footer.Rhtml"
 
 ![](images/20260315_125010.jpg){style=".caption{    text-align: center; }" fig-align="center" width="289"}
 
-#### Shrimp + Snails - The shrimp would be Monks, the snails Rogues. {style="text-align: center"}
+#### Shrimp + Snails - The shrimp would be Monks, the snails Rogues. <br><br> {style="text-align: center"}
+
+![](images/20260802_125432.jpg)
+
+#### Isopods - They would be Druids. {style="text-align: center"}
